@@ -1,0 +1,16 @@
+speech_recognition
+pyttsx3
+time
+datetime
+openai
+webbrowser
+subprocess
+requests
+BeautifulSoup
+os
+pywhatkit
+wikipedia
+pywhatkit
+deep-translator
+langchain-ollama
+langchain-core
